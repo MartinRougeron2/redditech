@@ -1,0 +1,7 @@
+{
+    "api" : {
+        "secret" : null,
+        "username" : "default",
+        "password" : "default"
+    }
+}
